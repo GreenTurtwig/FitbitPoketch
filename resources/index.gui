@@ -1,0 +1,10 @@
+<svg>
+  <image href="background.png" width="300" height="300" />
+  
+  <image href="seperator.png" width="12" height="108" x="144" y="96"/>
+  
+  <image id="digit1" href="2.png" width="48" height="108" x="24" y="96"/>
+  <image id="digit2" href="0.png" width="48" height="108" x="84" y="96"/>
+  <image id="digit3" href="1.png" width="48" height="108" x="168" y="96"/>
+  <image id="digit4" href="9.png" width="48" height="108" x="228" y="96"/>
+</svg>

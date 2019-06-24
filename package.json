@@ -1,0 +1,52 @@
+{
+  "fitbit": {
+    "appUUID": "cf68eace-f2ad-4f65-82b9-a15822ef7d4c",
+    "appType": "clockface",
+    "appDisplayName": "Pokétch",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Pokétch"
+      },
+      "fr": {
+        "name": "Pokémontre"
+      },
+      "it": {
+        "name": "PokéKron"
+      },
+      "es": {
+        "name": "Poké-reloj"
+      },
+      "ko": {
+        "name": "포켓치"
+      },
+      "nl": {
+        "name": "Pokétch"
+      },
+      "sv": {
+        "name": "Pokétch"
+      },
+      "zh-cn": {
+        "name": "宝可表"
+      },
+      "zh-tw": {
+        "name": "寶可錶"
+      },
+      "de": {
+        "name": "Pokétch"
+      },
+      "ja": {
+        "name": "ポケッチ"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.1.0"
+  }
+}
