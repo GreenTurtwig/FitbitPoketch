@@ -1,13 +1,15 @@
 {
   "fitbit": {
-    "appUUID": "cf68eace-f2ad-4f65-82b9-a15822ef7d4c",
+    "appUUID": "1c638567-328d-470a-a807-4e7fe86d9d44",
     "appType": "clockface",
     "appDisplayName": "Pokétch",
     "iconFile": "resources/icon.png",
     "wipeColor": "",
     "requestedPermissions": [],
     "buildTargets": [
-      "meson"
+      "gemini",
+      "meson",
+      "mira"
     ],
     "i18n": {
       "en": {
@@ -47,6 +49,6 @@
     "defaultLanguage": "en-US"
   },
   "devDependencies": {
-    "@fitbit/sdk": "~3.1.0"
+    "@fitbit/sdk": "~4.1.0"
   }
 }
